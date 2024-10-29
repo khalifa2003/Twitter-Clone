@@ -415,6 +415,9 @@ main {
   .main-account a {
     padding: 10px;
   }
+}
+
+@media screen and (max-width: 991px) {
   .side-feed {
     display: none;
   }
