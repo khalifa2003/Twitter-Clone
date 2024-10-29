@@ -411,7 +411,14 @@ main {
   .nav-links a i {
     margin-right: 0;
   }
-  .nav-links a , .main-account a {
+  .nav-links a,
+  .main-account a {
     padding: 10px;
+  }
+  .side-feed {
+    display: none;
+  }
+  .main-feed {
+    width: 100%;
   }
 }
